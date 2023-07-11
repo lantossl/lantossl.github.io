@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lantossl.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'lantossl's Github Page'
 theme = 'hugo-profile'
