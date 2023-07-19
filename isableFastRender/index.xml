@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slimbarszki Lantos - Github Pages</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Slimbarszki Lantos - Github Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2023 14:42:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There isn&#39;t any posts here!</title>
+      <link>http://localhost:1313/blogs/2023/2023-07-19-there-isnt-any-posts-here-yet/</link>
+      <pubDate>Wed, 19 Jul 2023 14:42:15 +0200</pubDate>
+      
+      <guid>http://localhost:1313/blogs/2023/2023-07-19-there-isnt-any-posts-here-yet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
